@@ -12,7 +12,7 @@ body
 	margin:auto;
 	height:120px;
 	line-height:120px;
-	background:#4159F0;
+	background:#3B4DB8;
 	color:#fff;
 }
 
@@ -21,7 +21,7 @@ body
 }
 
 .menu{
-	background-color:#4159F0;
+	background-color:#3B4DB8;
 	height:50px;
 	line-height:50px;
 	position:relative;
@@ -90,7 +90,7 @@ body
 	margin:auto;
 	height:40px;
 	line-height:40px;
-	background:#4159F0;
+	background:#3B4DB8;
 	color:#fff;
 	margin-bottom: 1pc;
 }
