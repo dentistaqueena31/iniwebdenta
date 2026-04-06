@@ -1,6 +1,6 @@
 body
 {
-	background:#90E0EF;
+	background:#B8DFF5;
 	color:#333;
 	width:100%;
 	font-family:sans-serif;
@@ -12,7 +12,7 @@ body
 	margin:auto;
 	height:120px;
 	line-height:120px;
-	background:#417aa8;
+	background:#4159F0;
 	color:#fff;
 }
 
@@ -21,7 +21,7 @@ body
 }
 
 .menu{
-	background-color:#417aa8;
+	background-color:#4159F0;
 	height:50px;
 	line-height:50px;
 	position:relative;
@@ -90,7 +90,7 @@ body
 	margin:auto;
 	height:40px;
 	line-height:40px;
-	background:#417aa8;
+	background:#4159F0;
 	color:#fff;
 	margin-bottom: 1pc;
 }
