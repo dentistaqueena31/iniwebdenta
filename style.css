@@ -44,7 +44,7 @@ body
 }
 
 .menu ul li a:hover {
-	background-color:#4b88bb;
+	background-color:#3B8CB8;
 	display:block;
 }
 
@@ -58,7 +58,7 @@ body
 }
 
 .border{
-	border:2px solid #4887b9;
+	border:2px solid #3B8CB8;
 	margin-top:1pc;
 	padding-bottom:1pc;
 	padding-left:2pc;
