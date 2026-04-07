@@ -1,6 +1,6 @@
 body
 {
-	background:#B8DFF5;
+	background:#DDF3F5;
 	color:#333;
 	width:100%;
 	font-family:sans-serif;
@@ -12,7 +12,7 @@ body
 	margin:auto;
 	height:120px;
 	line-height:120px;
-	background:#899CFF0;
+	background:#A6DCEF;
 	color:#fff;
 }
 
@@ -21,7 +21,7 @@ body
 }
 
 .menu{
-	background-color:#3B4DB8;
+	background-color:#A6DCEF;
 	height:50px;
 	line-height:50px;
 	position:relative;
@@ -44,7 +44,7 @@ body
 }
 
 .menu ul li a:hover {
-	background-color:#3B8CB8;
+	background-color:#A6DCEF;
 	display:block;
 }
 
@@ -58,7 +58,7 @@ body
 }
 
 .border{
-	border:2px solid #3B8CB8;
+	border:2px solid #A6DCEF;
 	margin-top:1pc;
 	padding-bottom:1pc;
 	padding-left:2pc;
@@ -90,7 +90,7 @@ body
 	margin:auto;
 	height:40px;
 	line-height:40px;
-	background:#3B4DB8;
+	background:#A6DCEF;
 	color:#fff;
 	margin-bottom: 1pc;
 }
